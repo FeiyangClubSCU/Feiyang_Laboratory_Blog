@@ -4,7 +4,7 @@
 
 ## 网页截图
 
-## ![screen](C:\Users\Pika\Desktop\screen.jpg)
+## ![screen](screen.jpg)
 
 ## 安装方法
 
